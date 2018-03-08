@@ -7,6 +7,8 @@
   Open JTalk
   http://open-jtalk.sourceforge.net/
 
+  You can here open-jtalk demonstration at following URL.
+  http://open-jtalk.sp.nitech.ac.jp/
 ## Install
 
 ```
